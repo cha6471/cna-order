@@ -1,0 +1,13 @@
+mars_mall\config\kafka\KafkaProcessor.class
+mars_mall\OrderController.class
+mars_mall\external\CancellationService.class
+mars_mall\OrderRepository.class
+mars_mall\OrderCanceled.class
+mars_mall\Ordered.class
+mars_mall\external\Cancellation.class
+mars_mall\OrderApplication.class
+mars_mall\Order.class
+mars_mall\Shipped.class
+mars_mall\AbstractEvent$1.class
+mars_mall\AbstractEvent.class
+mars_mall\PolicyHandler.class
